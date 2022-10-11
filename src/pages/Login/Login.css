@@ -1,0 +1,33 @@
+.form-container {
+    margin-top: 50px;
+}
+
+.error {
+    text-align: center;
+    margin-top: 20px;
+    padding: 7px;
+    background-color: rgb(248, 194, 194);
+    border-radius: 8px;
+    color: rgb(184, 34, 34);
+}
+
+.bi-microsoft{
+    padding-right: 7px;
+    font-size: 20px;
+}
+.microsoft {
+    padding-left: 5px;
+}
+
+@media(min-width: 1200px){
+    .box-form {
+        width: 40%;
+    }
+}
+
+.content-login{
+    margin-top: 10em;
+}
+
+
+

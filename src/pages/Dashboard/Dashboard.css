@@ -1,0 +1,29 @@
+@media(max-width: 899px){
+    .grid-title{
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+    .grid-buttons{
+        padding-bottom: 60px;
+    }
+}
+
+.fix-layout-footer {
+    height: 42px;
+}
+
+.subtitle {
+    padding-bottom: 20px;
+}
+.post_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgb(156, 156, 156);
+    width: 97.5%;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.list-container {
+    margin-bottom: 40px;
+}

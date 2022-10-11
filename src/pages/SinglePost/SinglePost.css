@@ -1,0 +1,18 @@
+.post-container {
+    display: flex;
+    justify-content: center;
+}
+img {
+    margin: 30px 0 30px 0;
+}
+.tags-title{
+    margin-bottom: .8em;
+    margin-top: 50px;
+}
+.tags-container {
+    display: flex;
+    justify-content: center;
+}
+.tags {
+    margin-right: 1.2em;
+}

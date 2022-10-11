@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    background-color: white;
+    color: black;
+}
+
+.strong {
+    font-weight: 900;
+    color: black;
+}
+
+.logo-span {
+    font-size: 1.2em;
+}
+
+.active {
+    background-color: black;
+    padding: 21px 3px 24px 3px;
+}
+.active button{
+    color: white;
+}
+
+a {
+    margin-right: 20px;
+}
+
+.o {
+    text-decoration: none;
+}

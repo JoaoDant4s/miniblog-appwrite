@@ -1,0 +1,32 @@
+.paper-container {
+    width: 40%;
+}
+.grid-container-items {
+    padding: 20px 10px;
+}
+.title {
+    padding-bottom: 40px;
+}
+
+.btn.btn-danger.btn-modal {
+    padding: 5px 50px;
+}
+
+.btn.btn-outline.btn-modal {
+    padding: 5px 50px;
+}
+.btn.btn-outline.btn-modal:hover {
+    background-color: white;
+    color: #000;
+    border: 1px solid #000;
+}
+
+@media(max-width: 740px) {
+    .btn.btn-danger.btn-modal {
+        padding: 5px 10px;
+    }
+    
+    .btn.btn-outline.btn-modal {
+        padding: 5px 10px;
+    }
+}
